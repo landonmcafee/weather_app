@@ -1,4 +1,4 @@
-# basic beginnings of a weather app 
+# basic beginnings of a weather app
 
 import requests
 import config
